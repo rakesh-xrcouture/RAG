@@ -1,0 +1,16 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.5.2
+sentence-transformers
+python-dotenv==1.0.0
+httpx==0.25.2
+pinecone-client
+pinecone
+gunicorn==21.2.0
+uvicorn
+
+# Fix LangChain Dependencies
+langchain==0.1.13 
+langchain-community==0.0.29
+langchain-huggingface
+langchain_groq
